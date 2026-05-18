@@ -65,55 +65,55 @@ See validation + debug steps
 
     python luhn.py
 
-    أدخل رقمًا مكوّنًا من 16 رقمًا
+  أدخل رقمًا مكوّنًا من 16 رقمًا
 
-    ستظهر نتيجة التحقق + خطوات التنفيذ
+   ستظهر نتيجة التحقق + خطوات التنفيذ
 
 🧠 What You Can Do With This Code | ماذا يمكنك أن تفعل بهذا السكربت؟
 English
 
 This project is not limited to card numbers. You can extend it to:
 
-    Validate national IDs
+  Validate national IDs
 
-    Validate membership numbers
+  Validate membership numbers
+  
+  Validate student IDs
 
-    Validate student IDs
+  Validate tracking numbers
 
-    Validate tracking numbers
+  Build a GUI app
 
-    Build a GUI app
+  Build a web version
 
-    Build a web version
+  Build a mobile app
 
-    Build a mobile app
-
-    Use it in teaching algorithms
-
-    Use it in security demonstrations
+  Use it in teaching algorithms    
+  
+  Use it in security demonstrations
 
 If you have creative ideas, feel free to share them!
 العربية
 
 المشروع ليس مخصصًا لبطاقات فقط. يمكنك تطويره ليشمل:
 
-    التحقق من أرقام الهويات
+  التحقق من أرقام الهويات
 
-    التحقق من أرقام العضويات
+   التحقق من أرقام العضويات
 
-    التحقق من أرقام الطلاب
+   التحقق من أرقام الطلاب
 
-    التحقق من أرقام التتبع
+   التحقق من أرقام التتبع
 
-    بناء تطبيق واجهة رسومية
+   بناء تطبيق واجهة رسومية
 
-    بناء نسخة ويب
+   بناء نسخة ويب
 
-    بناء تطبيق جوال
+   بناء تطبيق جوال
 
-    استخدامه في تعليم الخوارزميات
+   استخدامه في تعليم الخوارزميات
 
-    استخدامه في عروض الأمن السيبراني
+   استخدامه في عروض الأمن السيبراني
 
 إذا لديك أفكار جديدة — شاركها!
 🤝 Contribute | المساهمة
@@ -121,41 +121,41 @@ English
 
 Everyone is welcome to:
 
-    Improve the code
+  Improve the code
 
-    Add new features
+  Add new features    
+  
+  Fix bugs
 
-    Fix bugs
+  Suggest ideas    
+  
+  Open issues
 
-    Suggest ideas
+  Submit pull requests    
+  
+  Fork the project
 
-    Open issues
-
-    Submit pull requests
-
-    Fork the project
-
-    Share it with others
+  Share it with others
 
 العربية
 
 الجميع مرحّب بهم لـ:
 
-    تحسين الكود
+  تحسين الكود
 
-    إضافة ميزات جديدة
+   إضافة ميزات جديدة
 
-    إصلاح الأخطاء
+   إصلاح الأخطاء
 
-    اقتراح أفكار
+   اقتراح أفكار
 
-    فتح Issues
+فتح Issues 
 
-    إرسال Pull Requests
+إرسال Pull Requests 
 
-    عمل Fork للمشروع
+  عمل Fork للمشروع
 
-    مشاركة المشروع مع الآخرين
+   مشاركة المشروع مع الآخرين
 
 ⭐ Author | صاحب المشروع
 
