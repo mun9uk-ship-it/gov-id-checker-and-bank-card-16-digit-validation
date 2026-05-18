@@ -10,15 +10,14 @@ English:
 This is a Python script that validates 16‑digit numbers using the Luhn Algorithm, the same checksum method used in many ID systems.
 The script includes:
 
-    Step‑by‑step debugging
 
-    Colourful terminal output
+Step-by-step debugging
+Colourful terminal outpu
+Logging
 
-    Masking (**** **** **** 1234)
+Grouping digits (1234 5678 9012 3456)
 
-    Logging
 
-    Grouping digits (1234 5678 9012 3456)
 
 This project is open for learning, experimenting, improving, and extending into new ideas.
 
