@@ -12,7 +12,9 @@ The script includes:
 
 
 Step-by-step debugging
+
 Colourful terminal outpu
+
 Logging
 
 Grouping digits (1234 5678 9012 3456)
@@ -25,37 +27,41 @@ This project is open for learning, experimenting, improving, and extending into 
 هذا سكربت بايثون يتحقق من صحة الأرقام المكوّنة من 16 رقمًا باستخدام خوارزمية لوهن، وهي خوارزمية مستخدمة في أنظمة كثيرة للتحقق من الأرقام.
 السكربت يحتوي على:
 
-    شرح خطوة بخطوة
+  شرح خطوة بخطوة
 
-    ألوان في المخرجات
+  ألوان في المخرجات
+  
+  إخفاء الرقم (**** **** **** 1234)
 
-    إخفاء الرقم (**** **** **** 1234)
+تسجيل Log 
 
-    تسجيل Log
+  تقسيم الرقم كل 4 أرقام
 
-    تقسيم الرقم كل 4 أرقام
 
 المشروع مفتوح للتعلم، التجربة، التطوير، والإبداع.
 🚀 How to Run | طريقة التشغيل
 English
 
-    Install Python
+Install Python
 
-    Run the script in the terminal:
-    Code
+Run the script in the terminal:
+
 
     python luhn.py
 
-    Enter a 16‑digit number
+Enter a 16‑digit number
 
-    See validation + debug steps
+See validation + debug steps
 
 العربية
 
-    ثبّت بايثون
 
-    شغّل السكربت من الطرفية:
-    Code
+
+  ثبّت بايثون    
+  
+  شغّل السكربت من الطرفية:
+
+ 
 
     python luhn.py
 
